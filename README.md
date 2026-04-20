@@ -1,7 +1,5 @@
 # Tank Battle Royale
 
-![Tank Battle Royale](BattleTank/BattleTank.png)
-
 A **1v13 tank battle royale** built with Unreal Engine 4 using C++ and Blueprints. You're one player tank against 13 AI opponents on an open terrain map - use the landscape for cover, manage your ammo, and be the last tank standing.
 
 ---
